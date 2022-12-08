@@ -7,8 +7,6 @@ Python notebooks:
  - [BERT prediction script](https://github.com/nishitjain97/NLP_538_Fall_2022_Project_HaND/blob/main/BERT_Predictions_and_Evaluation.ipynb)
  - [GPT-2 prediction script](https://github.com/nishitjain97/NLP_538_Fall_2022_Project_HaND/blob/main/GPT_Predictions_and_Evaluation.ipynb)
  
- Fine-tuned Models:
- - [BERT](https://drive.google.com/drive/folders/1zLDJ6FNpH0Yt2cAkXcPcerltLpJYk9NR?usp=share_link)
- - [GPT-2](https://drive.google.com/drive/folders/1IDSONTJ8eMxdMOInjneiDD1vzqtSBPc8?usp=share_link)
+ [Fine-tuned Models](https://drive.google.com/drive/folders/1TsfgqDHbuQSC2oMwCiIV1TsU8L1uJaiJ?usp=share_link)
  
- [Datasets](https://drive.google.com/drive/folders/1e7hFAGKqoPv-Stst__pVlTSX1-GUx0S0?usp=sharing)
+ [Datasets](https://drive.google.com/drive/folders/10t0Q9gAzWAzH57-3ikWX5D39o-zRjb5D?usp=share_link)
