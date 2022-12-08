@@ -1,6 +1,12 @@
 # NLP_538_Fall_2022_Project_HaND
 Final project for NLP 538 Fall 2022
 
+We find that even large language models like BERT and GPT2 are susceptible to adversarial attacks. By using simple character and word-level perturbations, we were able to reduce the accuracy and the f1-score of these models on the Author Sentiment Prediction task.
+
+We also tried to increase the amount of perturbation to see if we are able to get the model to re-classify examples correctly, to no avail.
+
+However, through adversarial training, we see that these models can be made more robust to the aforementioned attacks. The only limitation to adversarial training is the inability to automate the generation of synthetic data. We need to constrain perturbations to prevent changing the original meaning of the input.
+
 Python notebooks:
  - [BERT Sentiment Classifier training](https://github.com/nishitjain97/NLP_538_Fall_2022_Project_HaND/blob/main/BERT_Author_Sentiment_Classification.ipynb)
  - [GPT-2 Sentiment Classifier training](https://github.com/nishitjain97/NLP_538_Fall_2022_Project_HaND/blob/main/GPT_Author_Sentiment_Classification.ipynb)
