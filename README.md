@@ -1,4 +1,4 @@
-# NLP_538_Fall_2022_Project_HaND
+# Adversarial Perturbations for Robustness of Large Language Models
 Final project for NLP 538 Fall 2022
 
 We find that even large language models like BERT and GPT2 are susceptible to adversarial attacks. By using simple character and word-level perturbations, we were able to reduce the accuracy and the f1-score of these models on the Author Sentiment Prediction task.
